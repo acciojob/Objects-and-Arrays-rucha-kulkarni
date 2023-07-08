@@ -13,6 +13,10 @@ let cap1 = Object.assign({},person);
 // let cap1 = {
 //     ...person
 // };
+
+// using JSON
+// let p3 = JSON.parse(JSON.stringify(person));
+
 // Write your code here, make sure the name of variables is exactly
 // same as mentioned in the problem statement
 
